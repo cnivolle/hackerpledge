@@ -2,6 +2,7 @@
   "name" : "hackerpledge",
   "private" : true,
   "version" : "0.0.1",
+  "main" : "www/app.js",
   "dependencies" : {
     "express" : "3.x",
     "less": "1.7.0",
